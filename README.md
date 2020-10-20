@@ -1,6 +1,9 @@
 # -Customer-Segmentation-Report-
  The aim of the project is to apply both supervised and unsupervised machine learning to identify potential customers for a mail-order sales company from a demographics data of Germany. 
 
+# Project Article Link
+This is the link of the article related to the project: https://medium.com/@waiganjojohn11/customer-segmentation-report-for-arvato-financial-services-a3452c99feb
+
 # Project Summary
 The aim of the project is to apply both supervised and unsupervised machine learning to identify potential customers for a mail-order sales company from a demographics data of Germany. The project will have three parts namely customer segmentation report, supervised machine learning model, and Kaggle competition. 
 
