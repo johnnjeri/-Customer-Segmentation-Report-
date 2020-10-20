@@ -17,12 +17,19 @@ Secondly, with demographics information for targets of a marketing campaign for 
 The following python tools/module packages is needed for this study.
 
 python 3.6
+
 anaconda
+
 jupyter notebook
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 sklearn
 
 # Files Uploaded in Repository
