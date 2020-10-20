@@ -49,6 +49,6 @@ Unfortunately, I could not upload the data files for the project for confidentia
 1. There is a proportion difference of +18.56% between customer proportion and general population proportion assigned to cluster 0. Therefore, cluster 0 over-represents customers of the company. For this reason, cluster 0 should be the top among the target customers because customers in that population are more likely to engage with the company. Other clusters that could be considered are cluster 1 and 2.
 2. There is a proportion difference of -12.09% between customer proportion and general population proportion assigned to cluster 5. Therefore, cluster 5 under-represents customer data compared to general population. Other clusters that are underrepresented are clusters 3 and 4 which have proportion difference of -9.22% and -9.62% respectively. These clusters are not likely to engage the company compared to the ones that are over-represented.
 
-# Acknowledgement
+# Acknowledgement.
 
 I couldn’t have finish this project without the help of a lot of people. I’d like to thank the Udacity instructors and the rest of the Udacity staff for their invaluable help. Thanks to my project mentors, for great suggestions, edits, and support.
